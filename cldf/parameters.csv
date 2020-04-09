@@ -1,0 +1,211 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_man,Man,1554,MAN
+2_woman,Woman,962,WOMAN
+3_boy,Boy,1366,BOY
+4_girl,Girl,1646,GIRL
+5_infant,Infant,1289,BABY
+6_myfathersaidbyson,My father (said by son),,
+7_myfathersaidbydaughter,My father (said by daughter),,
+8_mymothersaidbyson,My mother (said by son),,
+9_mymothersaidbydaughter,My mother (said by daughter),,
+10_myhusband,My husband,1200,HUSBAND
+11_mywife,My wife,1199,WIFE
+12_mysonsaidbyfather,My son (said by father),,
+13_mysonsaidbymother,My son (said by mother),,
+14_mydaughtersaidbyfather,My daughter (said by father),,
+15_mydaughtersaidbymother,My daughter (said by mother),,
+16_myelderbrother,My elder brother,1759,OLDER BROTHER
+17_myyoungerbrother,My younger brother,1760,YOUNGER BROTHER
+18_myeldersister,My elder sister,1758,OLDER SISTER
+19_myyoungersister,My younger sister,1761,YOUNGER SISTER
+20_anindian,An Indian,3612,INDIGENOUS PEOPLES OF THE AMERICAS
+21_people,People,789,PEOPLE
+22_head,Head,1256,HEAD
+23_hair,Hair,1040,HAIR
+24_face,Face,1560,FACE
+25_forehead,Forehead,123,FOREHEAD
+26_ear,Ear,1247,EAR
+27_eye,Eye,1248,EYE
+28_nose,Nose,1221,NOSE
+29_mouth,Mouth,674,MOUTH
+30_tongue,Tongue,1205,TONGUE
+31_teeth,Teeth,1380,TOOTH
+32_beard,Beard,678,BEARD
+33_neck,Neck,1333,NECK
+34_arm,Arm,1673,ARM
+35_hand,Hand,1277,HAND
+36_fingers,Fingers,1303,FINGER
+37_thumb,Thumb,1781,THUMB
+38_nails,Nails,1896,FINGERNAIL OR TOENAIL
+39_body,Body,1480,BODY
+40_chest,Chest,1592,CHEST
+41_belly,Belly,1251,BELLY
+42_femalebreasts,Female breasts,1402,BREAST
+43_leg,Leg,1297,LEG
+44_foot,Foot,1301,FOOT
+45_toes,Toes,1389,TOE
+46_bone,Bone,1394,BONE
+47_heart,Heart,1223,HEART
+48_blood,Blood,946,BLOOD
+49_townvillage,"Town, village",3609,TOWN OR VILLAGE
+50_chief,Chief,2394,CHIEF
+51_warrior,Warrior,3608,WARRIOR
+52_friend,Friend,1325,FRIEND
+53_house,House,1252,HOUSE
+54_skinlodge,Skin lodge,,
+55_kettle,Kettle,854,KETTLE
+56_bow,Bow,994,BOW
+57_arrow,Arrow,977,ARROW
+58_axehatchet,"Axe, hatchet",,
+59_knife,Knife,1352,KNIFE
+60_canoe,Canoe,1970,CANOE
+61_moccasins,Moccasins,3607,MOCCASIN
+62_pipe,Pipe,1124,PIPE
+63_tobacco,Tobacco,974,TOBACCO
+64_sky,Sky,1732,SKY
+65_sun,Sun,1343,SUN
+66_moon,Moon,1313,MOON
+67_star,Star,1430,STAR
+68_day,Day,1225,DAY (NOT NIGHT)
+69_night,Night,1233,NIGHT
+70_morning,Morning,1339,MORNING
+71_evening,Evening,1629,EVENING
+72_spring,Spring,1537,SPRINGTIME
+73_summer,Summer,1342,SUMMER
+74_autumn,Autumn,1276,AUTUMN
+75_winter,Winter,1471,WINTER
+76_wind,Wind,960,WIND
+77_thunder,Thunder,1150,THUNDER
+78_lightning,Lightning,1654,LIGHTNING
+79_rain,Rain,658,RAIN (PRECIPITATION)
+80_snow,Snow,784,SNOW
+81_fire,Fire,221,FIRE
+82_water,Water,948,WATER
+83_ice,Ice,617,ICE
+84_earthland,"Earth, land",3603,EARTH OR LAND
+85_sea,Sea,1474,SEA
+86_river,River,666,RIVER
+87_lake,Lake,624,LAKE
+88_valley,Valley,921,VALLEY
+89_prairie,Prairie,2819,GRASSLAND
+90_hillmountain,"Hill, mountain",2118,MOUNTAIN OR HILL
+91_island,Island,622,ISLAND
+92_stonerock,"Stone, rock",2125,STONE OR ROCK
+93_salt,Salt,1274,SALT
+94_iron,Iron,621,IRON
+95_forest,Forest,420,FOREST
+96_tree,Tree,906,TREE
+97_wood,Wood,1803,WOOD
+98_leaf,Leaf,628,LEAF
+99_bark,Bark,1204,BARK
+100_grass,Grass,606,GRASS
+101_pine,Pine,1740,PINE
+102_maize,Maize,506,MAIZE
+103_squash,Squash,864,PUMPKIN
+104_fleshmeat,"Flesh, meat",2615,FLESH OR MEAT
+105_dog,Dog,2009,DOG
+106_buffalo,Buffalo,934,BUFFALO
+107_bearblack,Bear (black),3611,AMERICAN BLACK BEAR
+108_wolf,Wolf,522,WOLF
+109_fox,Fox,1312,FOX
+110_deer,Deer,1936,DEER
+111_elk,Elk,1772,ELK
+112_beaver,Beaver,1194,BEAVER
+113_rabbithare,"Rabbit, hare",2345,LEPORID (RABBIT OR HARE)
+114_tortoise,Tortoise,895,TORTOISE
+115_horse,Horse,615,HORSE
+116_fly,Fly,1504,FLY (INSECT)
+117_mosquito,Mosquito,1509,MOSQUITO
+118_snake,Snake,730,SNAKE
+119_rattlesnake,Rattlesnake,871,RATTLESNAKE
+120_bird,Bird,937,BIRD
+121_egg,Egg,744,EGG
+122_feathers,Feathers,1201,FEATHER
+123_wings,Wings,1257,WING
+124_goose,Goose,1187,GOOSE
+125_duckmallard,Duck (mallard),3610,MALLARD
+127_pigeon,Pigeon,1853,DOVE
+128_fish,Fish,227,FISH
+129_salmon,Salmon,944,SALMON
+130_sturgeon,Sturgeon,3606,STURGEON
+131_name,Name,1405,NAME
+132_white,White,1335,WHITE
+133_black,Black,163,BLACK
+134_red,Red,156,RED
+135_lightblue,Light blue,3604,LIGHT BLUE
+136_yellow,Yellow,1424,YELLOW
+137_lightgreen,Light green,3605,LIGHT GREEN
+138_greatlarge,"Great, large",1202,BIG
+139_smalllittle,"Small, little",1246,SMALL
+140_strong,Strong,785,STRONG
+141_old,Old,1229,OLD
+142_young,Young,1207,YOUNG
+143_good,Good,1035,GOOD
+144_bad,Bad,1292,BAD
+145_dead,Dead,1625,DEAD
+146_alive,Alive,1422,BE ALIVE
+147_cold,Cold,1287,COLD
+148_warm,Warm,1232,WARM
+149_i,I,1209,I
+150_thou,Thou,1215,THOU
+151_he,He,1211,HE
+152_we,We,1212,WE
+153_ye,Ye,1213,YOU
+154_they,They,817,THEY
+155_this,This,1214,THIS
+156_that,That,78,THAT
+157_all,All,98,ALL
+158_manymuch,"Many, much",1198,MANY
+159_who,Who,1235,WHO
+160_far,Far,1406,FAR
+161_near,Near,1942,NEAR
+162_here,Here,136,HERE
+163_there,There,1937,THERE
+164_today,To-day,1283,TODAY
+165_yesterday,Yesterday,1174,YESTERDAY
+166_tomorrow,To-morrow,1329,TOMORROW
+167_yes,Yes,1268,YES
+168_no,No,1269,NO
+169_one,One,1493,ONE
+170_two,Two,1498,TWO
+171_three,Three,492,THREE
+172_four,Four,1500,FOUR
+173_five,Five,493,FIVE
+174_six,Six,1703,SIX
+175_seven,Seven,1704,SEVEN
+176_eight,Eight,1705,EIGHT
+177_nine,Nine,1483,NINE
+178_ten,Ten,1515,TEN
+179_eleven,Eleven,1706,ELEVEN
+180_twelve,Twelve,1707,TWELVE
+181_twenty,Twenty,1710,TWENTY
+182_thirty,Thirty,1715,THIRTY
+183_forty,Forty,1716,FORTY
+184_fifty,Fifty,1717,FIFTY
+185_sixty,Sixty,1718,SIXTY
+186_seventy,Seventy,1721,SEVENTY
+187_eighty,Eighty,1722,EIGHTY
+188_ninety,Ninety,1724,NINETY
+189_onehundred,One hundred,1634,HUNDRED
+190_onethousand,One thousand,1843,THOUSAND
+191_toeat,To eat,1336,EAT
+192_todrink,To drink,1401,DRINK
+193_torun,To run,1519,RUN
+194_todance,To dance,1879,DANCE
+195_tosing,To sing,1261,SING
+196_tosleep,To sleep,1585,SLEEP
+197_tospeak,To speak,1623,SPEAK
+198_tosee,To see,1409,SEE
+199_tolove,To Love,923,LOVE
+200_tokill,To kill,1417,KILL
+201_tosit,To sit,1416,SIT
+202_tostand,To stand,1442,STAND
+203_togo,To go,695,GO
+204_tocome,To come,1446,COME
+205_towalk,To walk,1443,WALK
+206_towork,To work,1086,WORK (ACTIVITY)
+207_tosteal,To steal,713,STEAL
+208_tolie,To lie,215,LIE DOWN
+209_togive,To give,1447,GIVE
+210_tolaugh,To laugh,1355,LAUGH
+211_tocry,To cry,1839,CRY
