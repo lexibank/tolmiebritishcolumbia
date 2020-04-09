@@ -1,0 +1,16 @@
+{
+    "id": "tolmiebritishcolumbia",
+    "title": "Compartive Vocabulary of the Indigenous Peoples in British Columbia",
+    "description": null,
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "url": null,
+    "citation": "Tolmie, Fraser W. and Dawson, George M. (1884). Comparative vocabularies of the Indian tribes of British Columbia, with a map illustrating distribution. Montreal: Dawson Brothers.",
+    "aboutUrl": null,
+    "conceptlist": ["Tolmie-1884-211"],
+    "lingpy_schema": null,
+    "derived_from": null,
+    "related": null,
+    "source": null,
+    "patron": null,
+    "version": "2.6.0"
+}

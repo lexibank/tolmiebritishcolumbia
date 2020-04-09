@@ -1,0 +1,1 @@
+The concept *turkey* is defined in the concept list but does never appear as reported item for all the languages under consideration. Hence the 210 instead of 211 concepts/parameters.
