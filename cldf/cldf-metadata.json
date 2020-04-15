@@ -10,14 +10,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Compartive Vocabulary of the Indigenous Peoples in British Columbia",
+    "dc:title": "CLDF dataset derived from Tolmie and Dawson's \"Comparative Vocabulary of the Indigenous Peoples in British Columbia\" from 1884",
     "dcat:accessURL": "https://github.com/lexibank/tolmiebritishcolumbia",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/tolmiebritishcolumbia",
-            "dc:created": "40302e8"
+            "dc:created": "f19b087"
         },
         {
             "rdf:type": "prov:Entity",

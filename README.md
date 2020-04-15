@@ -1,4 +1,4 @@
-# Compartive Vocabulary of the Indigenous Peoples in British Columbia
+# CLDF dataset derived from Tolmie and Dawson's "Comparative Vocabulary of the Indigenous Peoples in British Columbia" from 1884
 
 Cite the source dataset as
 
@@ -30,8 +30,8 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Christoph Rzymski | @chrzyki | maintainer
+Name               | GitHub user  | Description                                 | Role
+---                | ---          | ---                                         | ---
+Christoph Rzymski  | @chrzyki     | patron, concepts, digitization, languages   | Author
 
 
