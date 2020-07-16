@@ -1,6 +1,7 @@
 from pathlib import Path
-import pylexibank
+
 import attr
+import pylexibank
 from clldutils.misc import slug
 
 
@@ -19,9 +20,6 @@ class Dataset(pylexibank.Dataset):
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"}, separators=",", missing_data=("",), strip_inside_brackets=True
     )
-
-    def cmd_download(self, args):
-        pass
 
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv("wordlists.csv", dicts=True)

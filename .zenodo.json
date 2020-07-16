@@ -1,0 +1,24 @@
+{
+    "title": "CLDF dataset derived from Tolmie and Dawson's \"Comparative Vocabulary of the Indigenous Peoples in British Columbia\" from 1884",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Christoph Rzymski"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Tolmie, Fraser W. and Dawson, George M. (1884). Comparative vocabularies of the Indian tribes of British Columbia, with a map illustrating distribution. Montreal: Dawson Brothers.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
