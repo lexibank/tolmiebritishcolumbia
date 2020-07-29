@@ -24,9 +24,9 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 
 - **Varieties:** 28
 - **Concepts:** 210
-- **Lexemes:** 4,721
+- **Lexemes:** 4,760
 - **Sources:** 1
-- **Synonymy:** 1.00
+- **Synonymy:** 1.01
 
 # Contributors
 

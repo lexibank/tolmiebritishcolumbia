@@ -32,10 +32,9 @@ class Dataset(pylexibank.Dataset):
 
         for row in pylexibank.progressbar(data):
             for language in languages:
-                args.writer.add_form(
+                args.writer.add_forms_from_value(
                     Language_ID=language,
                     Parameter_ID=concepts[row["English"]],
                     Value=row[language],
-                    Form=row[language],
                     Source=["Tolmie1884"],
                 )
