@@ -13,7 +13,7 @@ idna==2.8
 iniconfig==1.0.1
 isodate==0.6.0
 jdcal==1.4.1
-lingpy==2.6.6
+-e git+git@github.com:lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
 Markdown==3.3
 networkx==2.2
 newick==1.0.0
@@ -28,7 +28,7 @@ pyclts==2.1.3
 pyconcepticon==2.6.0
 pycountry==20.7.3
 pyglottolog==3.2.2
-pylexibank==2.7.2
+-e git+git@github.com:lexibank/pylexibank.git@ee2ebef372d859104cac2933aca6ae5ac712b6de#egg=pylexibank
 pytest==6.1.1
 regex==2020.10.11
 requests==2.22.0
