@@ -21,8 +21,8 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 57%](https://img.shields.io/badge/BIPA-57%25-red.svg "BIPA: 57%")
-![CLTS SoundClass: 57%](https://img.shields.io/badge/CLTS%20SoundClass-57%25-red.svg "CLTS SoundClass: 57%")
+![BIPA: 67%](https://img.shields.io/badge/BIPA-67%25-orange.svg "BIPA: 67%")
+![CLTS SoundClass: 67%](https://img.shields.io/badge/CLTS%20SoundClass-67%25-orange.svg "CLTS SoundClass: 67%")
 
 - **Varieties:** 28
 - **Concepts:** 210
@@ -30,9 +30,9 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 30,320
-- **Segments:** 100 (43 BIPA errors, 43 CTLS sound class errors, 57 CLTS modified)
-- **Inventory size (avg):** 40.54
+- **Tokens:** 30,301
+- **Segments:** 93 (31 BIPA errors, 31 CTLS sound class errors, 62 CLTS modified)
+- **Inventory size (avg):** 40.89
 
 # Contributors
 
