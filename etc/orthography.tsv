@@ -5,23 +5,23 @@ $	NULL	0
 ´	NULL	pu-kwā´-num;ka-tit´-too;in´-to-op;noo-ka-tam´-tha;is´-hail-o-wih
 ’	NULL	shi-li-kit-tim-win-’go;ni-’ko’k-a-hik;ni-’ko’k-a-hik;tsoo-wan-kit-tim-win-’go;spl-’kein
 gw	gʷ	duha-ho-lo-gwodi;tsel´-e-de-gwus;stō-le-gwan;goo-gwilla;goo-gwilla
-hw	ʕ w	hahwi-e;koos-hwa;koos-hwa;koos-hwa;kla-le-tla-hwlth
-lh	ɬ	til-koolh-im-yoot;til-koolh-im-un-nah;slin-ealh-kum-ealh;kulh-lātik;nish-ai-ulh-slannē
+hw	hʷ	hahwi-e;koos-hwa;koos-hwa;koos-hwa;kla-le-tla-hwlth
+lh	ʎ	til-koolh-im-yoot;til-koolh-im-un-nah;slin-ealh-kum-ealh;kulh-lātik;nish-ai-ulh-slannē
 ll	ɬ	ikalla;ska-kullā;nis-tallis;nis-tallis;kwullā
 sh	ʃ	kash-kash;shin-shin-ashi;shin-shin-ashi;shish-ootum;kash-kash
 wh	wʰ	tsi-hi-a-whatl;kus-whun-ook;kus-whun-ook;hun-whun-ookwi;is´-whuh-sē-whult
-ōh	ō ʕ	slanai-ōhl;kōht
-^āh	ā ʕ	āh-alph
-^īh	ī ʕ	īha-kommitz;īh-ā;īh-ā;īhl-thlē;īh-kwīn
-hs$	ʕ s	thluhs;eiloohs;luhs;poot-umit-kwo-luhs
-tsh	tʃ	tloo-tshimun;sē-tshin-kooi;si-asē-tshuk-oap;klootsh-timtz;te-tshā
-wh$	w ʕ	hul-lawh;slawh;yoawh;ow-awh;īdawh
-zh$	z ʕ	kwai-el-izh
-āh$	ā ʕ	hun-nāh;un-nāh;ni-lāh;hāh;hāh
-ēh$	ē ʕ	kuh-kwēh;tshin-kat-ka-tēh
-ĕh$	ĕ ʕ	skil-a-kĕh
+ōh	ō ʔ	slanai-ōhl;kōht
+^āh	ā ʔ	āh-alph
+^īh	ī ʔ	īha-kommitz;īh-ā;īh-ā;īhl-thlē;īh-kwīn
+hs$	ʔ s̩	thluhs;eiloohs;luhs;poot-umit-kwo-luhs
+tsh	tʃʰ	tloo-tshimun;sē-tshin-kooi;si-asē-tshuk-oap;klootsh-timtz;te-tshā
+wh$	w ʔ	hul-lawh;slawh;yoawh;ow-awh;īdawh
+zh$	z ʔ	kwai-el-izh
+āh$	ā ʔ	hun-nāh;un-nāh;ni-lāh;hāh;hāh
+ēh$	ē ʔ	kuh-kwēh;tshin-kat-ka-tēh
+ĕh$	ĕ ʔ	skil-a-kĕh
 īh$	ī χ	shīh;hut-līh;hut-līh;sam-tlīh
-ōh$	ō ʕ	tin-ā-ōh;tlōh;kōh;mōh;mōh
+ōh$	ō ʔ	tin-ā-ōh;tlōh;kōh;mōh;mōh
 a	a	wai-oot;swaika;soi-kan;kah-tin;ikalla
 ā	ā	pu-kwā-num;pu-kwā´-num;pook-wā-num;stil-tāmsh;shā-wut
 ă	ă	sĭttăk;sātsă-tăkum;sātsă-tăkum;kslă-koo-num;kslă-koo-num
@@ -29,7 +29,7 @@ ts	ts	tsa-tsa-ta-kum;sātsă-tăkum;tloo-tsi-tsi;tloo-tsi-tsi;tats-guika
 e	e	kewlh;ske-ki-thlil;akag-eluk;tā-gool-taine-tīn;tse-ke
 ē	ē	swē-ka;sim-ēm;to-kwunē-e;tē-nā-se;kloh-tēlt
 ĕ	ĕ	tsalĕ-gedit;a-ko-ko-ut´-tĕ-na;in-kĕ-shēl´-ni-kuk;snĕt;sumĕ-hai-it-tshin
-ee	eː	keet;keet;keet;skee-ool-ki
+ee	e e	keet;keet;keet;skee-ool-ki
 x	x	nux-soo;nux-soo;nux-soo;nux-soo;tsim-aux-shin
 χ	χ	ki-χi;kitl-χow
 x$	x	spsis-sax;ko-kwinix;tla-la-hlam´-ix;moax;moax
@@ -39,102 +39,50 @@ h$	h	youh;in-tlah;skul-tum-ih;hā-puh;til-koolh-im-un-nah
 i	i	wai-oot;i-hling-a;ē-hlin;enika;swaika
 ī	ī	wīns;tā-gool-taine-tīn;kī-ka;tshīl;tshīl
 ĭ	ĭ	sĭttăk;smoo-ītlĭts;mā-kĭn;kuai-ĭgoot;toa-whĭ-ai
-^i	i	i-thlung-a;i-hling-a;ikalla;im-ilkh;in-tlah
-^ī	ī	īmuh;īmuh;ījek-shin;īdawh;īts-bok-omah
-^ĭ	ĭ	ĭ-ītshi-min;ĭtl-koo-tagai;ĭl´-lal
-i$	i	slanai;slāni;tshuoi;ta-na-asi;imil-imil-ki
-ī$	ī	skoo-kumī;towī;tl-ta-whī;tăkī;āsī
-ĭ$	ĭ	tsa-mĭ;tlookĭ;sing-e-dalĭ;tēĭ;uz-nut-tĭ
 j	j	n-jada;ti-koot-jung-a;ti-koot-jung-a;di-jasha;ti-jas-ka
-^j	j	jā-da;jā-da-hut-so;ja-da-kud-so;jis-hin;jish´-in
 g	g	i-thlung-a;i-hling-a;akag-eluk;tā-gool-taine-tīn;n-gunna
 k	k	pook-wā-num;enika;swaika;soi-kan;swē-ka
-^g	g	geok-kelout-a-kuns;giook-wilowt;gēu;gēu;gi-geis
-^k	k	kō-wus;kah-tin;kun-num;kun-num;kun-num
-g$	g	de-nung;tē-hung;haung;nim-ang;tē-hung
-gh	gh	ti-ow-gha;ti-tla-ghă;uh-hi-ghutti;uh-hi-ghutti;shā-wut-uh-ghutti
-gs	gs	yungs-a-kīn
+gh	gʰ	ti-ow-gha;ti-tla-ghă;uh-hi-ghutti;uh-hi-ghutti;shā-wut-uh-ghutti
+gs	g s	yungs-a-kīn
 k$	k	sĭttăk;akag-eluk;’kl-wām-ilk;walak;kl-ku-am-ilk
 kh	kʰ	’kha;skh-ai-oos;ka-kloo-khluh´-ā;uh-a-kha-wo;’khai
-ks	ks	salks-māna;salks-māna;sa-ykso;tahks-ta;muksn
+ks	k s	salks-māna;salks-māna;sa-ykso;tahks-ta;muksn
 kw	kʷ	pu-kwā-num;pu-kwā´-num;to-kwunē-e;a-poo-kwunse;ani-kwul
-^gh	gh	ghin-tash
-^kh	kʰ	kho-na;kho-na;kha-kan;khla;khat
-^ks	ks	ksa-pook;ksa-pook;ksa-pook;ksa-pook;kslă-koo-num
-gh$	gh	skiw-igh;kē-digh;sā-antl-kgh;de-ogh;hoam-ugh
-kh$	kʰ	im-ilkh;a-shoo’kh;lukh;’hai-’kh;kookh
-ks$	ks	pitī-miks;noo-wēks;oom-ēks;wan-uks;wan-uks
 kwh	kʷʰ	ut-la-kwhl
-kws	kʷs	is-kws-sum-ēm´;hakws-smuk-wătshi
-^kws	kʷs	kwst;kws-kă
-kwh$	kʷʰ	hē-kwh
-kws$	kʷs	kwa-kws;sa-kws
+kws	kʷ s	is-kws-sum-ēm´;hakws-smuk-wătshi
 l	l	i-thlung-a;i-hling-a;ē-hlin;stil-tāmsh;im-ilkh
 m	m	im-ilkh;skul-tum-ih;tloo-tshimun;smoo-tlats;sim-ēm
-^m	m	mān-nă;minā;mī-un-ash;mān;mān
-m$	m	pu-kwā-num;pu-kwā´-num;pook-wā-num;kun-num;kun-num
-ms	ms	timst;timst
-mh$	mh	et-shumh;kwalimh
-ms$	ms	heums;sums;sims;sims;spēms
+ms	m s	timst;timst
+mh$	m h	et-shumh;kwalimh
 n	n	i-thlung-a;i-hling-a;pu-kwā-num;pu-kwā´-num;pook-wā-num
-^n	n	n-jada;now-te-nun´;na-ā-tzoo-tzoo;n-gunna;neuio-noog-wādh
-n$	n	ē-hlin;soi-kan;kah-tin;tloo-tshimun;tā-gool-taine-tīn
-nh	nh	tsh-kwonh-ama;kla-nhl-kwun-ilh
+nh	ɲ	tsh-kwonh-ama;kla-nhl-kwun-ilh
 ns	ns	insua-nimān;insua-nimān;a-poo-kwunse;insua-en-tang;a-poo-kwunse
-^nh	nh	nhl-in
-^ns	ns	ns-kā-āk;ns-kā-āk-slannē
-nh$	nh	shīnh
-ns$	ns	wīns;kush-aoomp-kins;kush-aoomp-kins;kush-aoomp-kins;kush-aoomp-kins
 b	b	be-ba-da;ā-bo;ābo;in-tsă-bum;tubo-osh
 p	p	a-pa;hā-puh;ha-push;ha-push;kush-aoomp-kins
-^b	b	be-ba-da;buk-sin;buk´-koo;ba-kwam;bai-itz
-^p	p	pu-kwā-num;pu-kwā´-num;pook-wā-num;pahtl-ke;pitī-miks
-b$	b	tlub
-bb	bb	muh-muh-gubba
-bs	bs	obsin
-p$	p	ō-oop;ō-oop;in´-to-op;si-asē-tshuk-oap;nimi-pī-ap
-ps	ps	inl-tst-tso-ōps´;spsis-sax;kul-ōpst;an-o-is-kumps´-e;ka-tlas-kumps´-e
-ph$	pʰ	āh-alph
-ps$	ps	i-thliaps;a-kil-akum-mi-hi-diops;pīps;wīlops;tsōāps
+bb	bː	muh-muh-gubba
+bs	b s	obsin
+ps	p s	inl-tst-tso-ōps´;spsis-sax;kul-ōpst;an-o-is-kumps´-e;ka-tlas-kumps´-e
+ph$	p h	āh-alph
 r	r	nun-tse-ra;skow-rē;ni-ta-rā;nin-ta-ra;nin-tshur-rā
 s	s	itl-na-huit-soo;swe-wil-is-sonil;swe-wil-is-sonil;ta-na-asi;tl-kasts
 z	z	ka-kutz-ko;χa-da-hit-zoo;na-ā-tzoo-tzoo;na-ā-tzoo-tzoo;skat-soo-za
-^s	s	soi-kan;stōbsh;stil-tāmsh;skul-tum-ih;sĭttăk
-^z	z	zō-uk;zōko-kun
-s$	s	kō-wus;tha-thus;naw-us;now-us;uneis
-z$	z	tai-yuz;klootsh-timtz;kwnishtz;sĭs´-kwuz;kātz
 d	d	jā-da;χa-da;n-jada;jā-da-hut-so;χa-da-hit-zoo
 t	t	stōbsh;stil-tāmsh;stil-tāmsh;kah-tin;in-tlah
-^d	d	de-nung;di-kit;di-kit;di-jasha;datsio
-^t	t	tit-kat-th;tloo-tshimun;tā-gool-taine-tīn;til-koolh-im-yoot;ta-na-asi
-d$	d	tho-thed;ko-po-thled;kut-soo-ald;stoo-īd;tzum-tid
-dh	dh	sai-a-dha;tzia-dho;tei-dha;stā-dhe;kwā-dha
-ds	ds	kwa-kwa-dsanai;tin-ne-adsoh;skads-oot-la;kah-kup-adsi
-t$	t	wai-oot;shā-wut;sahlt;ai-ut;til-koolh-im-yoot
+dh	dʰ	sai-a-dha;tzia-dho;tei-dha;stā-dhe;kwā-dha
+ds	d s	kwa-kwa-dsanai;tin-ne-adsoh;skads-oot-la;kah-kup-adsi
 th	tʰ	i-thlung-a;ske-ki-thlil;tha-thus;na-ilth-lash;na-ilth-lash
-tt	tt	sĭttăk;uh-hi-ghutti;uh-hi-ghutti;shā-wut-uh-ghutti;shā-wut-uh-ghutti
-^ds	ds	dsa-kein-skuk;dso-wun;dso-wun;dso-wun;dsīng-a
-^th	tʰ	tha-thus;thlin-kit;thlih-owi;thlim-tuh;tho-thed
-dh$	dh	neuio-noog-wādh;nenio-noog-wādh;ta-i-adh;koaldh;ni-idh
-th$	tʰ	tit-kat-th;nītz-i-kulth;tiwh´-ts-tsth;tshi-woo´-pth;tat´-whath
+tt	tː	sĭttăk;uh-hi-ghutti;uh-hi-ghutti;shā-wut-uh-ghutti;shā-wut-uh-ghutti
 o	o	youh;soi-kan;tshuoi;swe-wil-is-sonil;now-te-nun´
 ō	ō	kō-wus;stōbsh;tōāl-o;is-kōi´;nis-tōlis
 ŏ	ŏ	wŏa-puh;nukŏăt;tŏ-tōa;tŏ-tōa
-^o	o	oway;oway;oasha-a-imits;ou-kooiwa;obsin
-^ō	ō	ō-oop;ō-oop;ō-whil-mooh;ō-whil-mi-whoo;ō-kwus
-o$	o	shi-ko;ka-kutz-ko;jā-da-hut-so;ja-da-kud-so;kit-hut-so
 oo	uː	wai-oot;pook-wā-num;tloo-tshimun;tā-gool-taine-tīn;smoo-tlats
 w	w	pook-wā-num;kō-wus;shā-wut;kewlh;’kl-wām-ilk
-^w	w	wai-oot;wīns;walak;win-umsh;win-umsh
-w$	w	in-le-ow;kow;kew;shoo-wow;te-low
 u	u	youh;i-thlung-a;pu-kwā-num;pu-kwā-num;pu-kwā´-num
 y	y	til-koolh-im-yoot;tai-yuz;nai-yoo;nai-yoo;n-yai
 ū	ū	tūll
-^u	u	un-nāh;un-stat-nun;uh-īsh;uh-īsh;uh-kla
-^y	y	youh;yun-tsuk-oo;yak-so;yuk-sin;yauk-shut
-u$	u	gēu;gēu;keu;hleu;ka-hāku
-y$	y	oway;oway
 tl	tɬ	
 ’k	ʔk	
 ’t	ʔt	
 ’h	ʔh	
+’g	ʔg	
+’z	ʔz	

@@ -30,9 +30,9 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 30,485
-- **Segments:** 64 (0 BIPA errors, 0 CTLS sound class errors, 64 CLTS modified)
-- **Inventory size (avg):** 37.93
+- **Tokens:** 29,850
+- **Segments:** 59 (0 BIPA errors, 0 CTLS sound class errors, 59 CLTS modified)
+- **Inventory size (avg):** 37.29
 
 # Contributors
 
