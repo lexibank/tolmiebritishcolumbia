@@ -1,5 +1,7 @@
 # CLDF dataset derived from Tolmie and Dawson's "Comparative Vocabulary of the Indigenous Peoples in British Columbia" from 1884
 
+[![CLDF validation](https://github.com/lexibank/tolmiebritishcolumbia/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/tolmiebritishcolumbia/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -23,7 +25,7 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/tolmiebritishcolumbia.svg?branch=master)](https://travis-ci.org/lexibank/tolmiebritishcolumbia)
+[![CLDF validation](https://github.com/lexibank/tolmiebritishcolumbia/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/tolmiebritishcolumbia/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -45,6 +47,7 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 Name               | GitHub user  | Description                                 | Role
 ---                | ---          | ---                                         | ---
 Christoph Rzymski  | @chrzyki     | patron, concepts, digitization, languages   | Author
+Johann-Mattis List | @lingulist   | orthography profile                         | Other
 
 
 
