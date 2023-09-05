@@ -41,12 +41,12 @@ ts	ts	kluts-i-kluk-ats-im, shts-hits-mauhts	Selish-Kullespelm, Tinne-Nakoontloon
 ^a	a	a-poo-kwunse, al-lun	Kootenuha-UpperKootenuha, Tshinook-Tilhilooit-UpperTshinook, Shahaptani-Whulwhaipum, Tinne-Nakoontloon, Bilhoola-Noothlakimish, Tinne-Tshilkotin, Niskwalli-Sinahomish, Kwakiool-Haishilla, Kawitshin-Songis, Kwakiool-Likwiltoh, Aht-Kaiookwaht, Tinne-Takulli-Teheili, Kawitshin-Kowmook-Tlathool, Haida-Kaigani, Selish-Lillooet, Haida-Masset	100	U+005e U+0061
 ^i	i	insua-nis-kum-ealh, insua-nimān	Selish-Kullespelm, Tshinook-Tilhilooit-UpperTshinook, Kawitshin-Kwantlin, Aht-Kaiookwaht, Haida-Kaigani, Bilhoola-Noothlakimish, Tsheheilis-Staktamish, Kawitshin-Songis, Selish-Lillooet, Tshimsian-Kithatla, Tinne-Tshilkotin, Shahaptani-Whulwhaipum, Niskwalli-Sinahomish, Haida-Kumshewa, Tshimsian-Kitunto, Tinne-Takulli-Teheili, Haida-Skidegate, Tinne-Nakoontloon, Kootenuha-UpperKootenuha, Kwakiool-Haishilla	100	U+005e U+0069
 z	z	tzi-a, skī-hoo-za	Tinne-Nakoontloon, Selish-Lillooet, Haida-Kumshewa, Tinne-Tshilkotin, Tinne-Takulli-Teheili, Kawitshin-Snanaimooh, Haida-Masset, Kwakiool-Likwiltoh, Haida-Skidegate, Kawitshin-Kowmook-Tlathool, Kawitshin-Songis, Niskwalli-Sinahomish, Kwakiool-Hailtzuk, Kwakiool-Kwiha, Selish-Kullespelm, Kawitshin-Kwantlin, Thlinkit-Skutkwan, Bilhoola-Noothlakimish, Tshinook-Tilhilooit-UpperTshinook, Tshimsian-Kithatla, Tshimsian-Kitunto, Kwakiool-Haishilla	100	U+007a
-tz	dz
-^tz	dz
-ng	ŋ
-^ng	ŋ
-’t	ˀt
-’z	ˀz
+tz	dz				
+^tz	dz				
+ng	ŋ				
+^ng	ŋ				
+’t	ˀt				
+’z	ˀz				
 g	g	hung-ē, ti-koot-jung-a	Haida-Kumshewa, Haida-Kaigani, Haida-Skidegate, Haida-Masset, Kawitshin-Songis, Tshimsian-Kithatla, Tshinook-Tilhilooit-UpperTshinook, Tshimsian-Kitunto, Tinne-Takulli-Teheili, Tinne-Tshilkotin, Tinne-Nakoontloon, Kawitshin-Kowmook-Tlathool, Kawitshin-Snanaimooh, Niskwalli-Sinahomish, Kwakiool-Haishilla	100	U+0067
 ll	lː	kil-lum, u-alla	Kawitshin-Songis, Kwakiool-Hailtzuk, Kwakiool-Kwiha, Kwakiool-Haishilla, Kwakiool-Likwiltoh, Bilhoola-Noothlakimish, Niskwalli-Sinahomish, Selish-Lillooet, Selish-Kullespelm, Kawitshin-Kwantlin, Tsheheilis-Staktamish, Tinne-Nakoontloon, Haida-Kaigani, Shahaptani-Whulwhaipum, Kawitshin-Kowmook-Tlathool, Tshimsian-Kitunto, Tinne-Tshilkotin, Tshinook-Tilhilooit-UpperTshinook, Tshinook-Tshinook, Haida-Kumshewa, Tshimsian-Kithatla, Kootenuha-UpperKootenuha	100	U+006c U+006c
 ^m	m	mā, mai-atla	Bilhoola-Noothlakimish, Tshimsian-Kithatla, Aht-Kaiookwaht, Tshimsian-Kitunto, Shahaptani-Whulwhaipum, Kwakiool-Hailtzuk, Tshinook-Tshinook, Kwakiool-Kwiha, Kawitshin-Kwantlin, Kawitshin-Songis, Selish-Lillooet, Kwakiool-Likwiltoh, Niskwalli-Sinahomish, Kawitshin-Kowmook-Tlathool, Tinne-Takulli-Teheili, Kwakiool-Haishilla, Kawitshin-Snanaimooh, Tsheheilis-Staktamish, Tinne-Tshilkotin, Haida-Skidegate, Tshinook-Tilhilooit-UpperTshinook	100	U+005e U+006d
@@ -101,7 +101,7 @@ lh	l̥	alh-tin, welhl	Bilhoola-Noothlakimish, Tshimsian-Kitunto, Kawitshin-Kwant
 ks	k s	waukse, salks-māna	Selish-Lillooet, Tshinook-Tshinook, Kawitshin-Kowmook-Tlathool, Shahaptani-Whulwhaipum, Kawitshin-Songis, Tshimsian-Kithatla, Kootenuha-UpperKootenuha, Bilhoola-Noothlakimish, Kawitshin-Snanaimooh, Niskwalli-Sinahomish, Tshinook-Tilhilooit-UpperTshinook, Tshimsian-Kitunto	25	U+006b U+0073
 ō$	oː	hush-hō, klō	Tshimsian-Kitunto, Tshimsian-Kithatla, Haida-Kaigani, Kwakiool-Likwiltoh, Tinne-Takulli-Teheili, Kootenuha-UpperKootenuha, Kwakiool-Kwiha, Kawitshin-Snanaimooh, Tinne-Tshilkotin, Shahaptani-Whulwhaipum, Niskwalli-Sinahomish, Haida-Kumshewa, Kawitshin-Kowmook-Tlathool, Aht-Kaiookwaht, Selish-Lillooet, Kawitshin-Kwantlin, Kwakiool-Haishilla	23	U+014d U+0024
 ’k	ˀk	ni-’ko’k-a-hik, ka-’koos	Selish-Lillooet, Bilhoola-Noothlakimish, Thlinkit-Skutkwan, Selish-Kullespelm, Kootenuha-UpperKootenuha, Kawitshin-Snanaimooh, Tshimsian-Kitunto, Haida-Kaigani, Kawitshin-Kwantlin	21	U+2019
-’kh	kʰ
+’kh	kʰ				
 d$	d	gwad-ug-wad, tzum-tid	Niskwalli-Sinahomish, Kawitshin-Snanaimooh, Kawitshin-Kowmook-Tlathool, Tshimsian-Kitunto, Shahaptani-Whulwhaipum, Bilhoola-Noothlakimish, Tshimsian-Kithatla	21	U+0064 U+0024
 ks$	k s	wan-uks, wīl-ēiks	Tshinook-Tilhilooit-UpperTshinook, Tsheheilis-Staktamish, Aht-Kaiookwaht, Tshimsian-Kitunto, Shahaptani-Whulwhaipum, Thlinkit-Skutkwan, Kawitshin-Songis, Kwakiool-Kwiha, Kawitshin-Snanaimooh, Niskwalli-Sinahomish, Tshimsian-Kithatla, Selish-Lillooet	20	U+006b U+0073 U+0024
 gh	gʱ	shā-wut-uh-ghutti, uh-hi-ghutti	Haida-Kumshewa, Thlinkit-Skutkwan, Tshimsian-Kithatla, Bilhoola-Noothlakimish, Niskwalli-Sinahomish, Tshimsian-Kitunto, Aht-Kaiookwaht, Kawitshin-Kwantlin	19	U+0067 U+0068
@@ -111,7 +111,7 @@ wh$	hʷ	thliwh, tsuh-o-liwh	Selish-Kullespelm, Kawitshin-Kwantlin, Bilhoola-Noot
 u$	u	tul-tsau, gēu	Thlinkit-Skutkwan, Tinne-Tshilkotin, Haida-Kaigani, Aht-Kaiookwaht, Tinne-Takulli-Teheili, Kootenuha-UpperKootenuha, Haida-Kumshewa, Haida-Skidegate, Haida-Masset	17	U+0075 U+0024
 ĭ	ɨ	sĭttăk, smoo-ītlĭts	Selish-Lillooet, Kawitshin-Songis, Tinne-Tshilkotin, Tshimsian-Kithatla, Haida-Kaigani, Tshinook-Tshinook, Tshimsian-Kitunto, Kwakiool-Likwiltoh, Tinne-Takulli-Teheili	16	U+012d
 ^’kh	ˀkʰ	’kha, ’kāt	Bilhoola-Noothlakimish, Haida-Kumshewa, Haida-Kaigani, Thlinkit-Skutkwan, Tshimsian-Kithatla, Aht-Kaiookwaht, Selish-Lillooet, Kawitshin-Kwantlin	15	U+005e U+2019
-^’k	ˀk
+^’k	ˀk				
 kh	kʰ	’kha, ha-wilkhl	Thlinkit-Skutkwan, Bilhoola-Noothlakimish, Kootenuha-UpperKootenuha, Niskwalli-Sinahomish, Haida-Kumshewa, Haida-Kaigani, Tshinook-Tshinook, Aht-Kaiookwaht, Kawitshin-Kwantlin	15	U+006b U+0068
 ns	n s	a-poo-kwunse, insua-samil-mun	Kawitshin-Kwantlin, Tshimsian-Kitunto, Kwakiool-Haishilla, Tshimsian-Kithatla, Tsheheilis-Staktamish	15	U+006e U+0073
 kk	kː	tik-kīa, nuk-ko	Selish-Kullespelm, Thlinkit-Skutkwan, Tinne-Nakoontloon, Kawitshin-Kwantlin, Kootenuha-UpperKootenuha, Tshimsian-Kithatla, Tshimsian-Kitunto, Kwakiool-Likwiltoh, Selish-Lillooet, Kwakiool-Haishilla	15	U+006b U+006b
@@ -260,7 +260,7 @@ lhs$	l̥ s	te-too-wilhs	Tshimsian-Kitunto	1	U+006c U+0068 U+0073 U+0024
 sc	ʃ	moascum	Kwakiool-Hailtzuk	1	U+0063
 lsh	l ʃ	seilsht	Tshinook-Tshinook	1	U+006c U+0073 U+0068
 kwh	kʷʰ	ut-la-kwhl	Aht-Kaiookwaht	1	U+006b U+0077 U+0068
-’g	ˀg
+’g	ˀg				
 ws	w s	lug-ws-wān-go	Haida-Masset	1	U+0077 U+0073
 ^āh	aː h	āh-alph	Bilhoola-Noothlakimish	1	U+005e U+0101 U+0068
 ph$	pʰ	āh-alph	Bilhoola-Noothlakimish	1	U+0070 U+0068 U+0024
