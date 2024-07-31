@@ -7,13 +7,20 @@
     ],
     "creators": [
         {
-            "name": "Christoph Rzymski"
+            "name": "Fraser W. Tolmie"
+        },
+        {
+            "name": "George M. Dawson"
         }
     ],
     "contributors": [
         {
+            "name": "Christoph Rzymski",
+            "type": "Editor"
+        },
+        {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
         }
     ],
     "communities": [
@@ -24,6 +31,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Tolmie, Fraser W. and Dawson, George M. (1884). Comparative vocabularies of the Indian tribes of British Columbia, with a map illustrating distribution. Montreal: Dawson Brothers.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }

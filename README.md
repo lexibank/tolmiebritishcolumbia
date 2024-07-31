@@ -12,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -32,8 +32,8 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 28
-- **Concepts:** 210
+- **Varieties:** 28 (linked to 19 different Glottocodes)
+- **Concepts:** 210 (linked to 200 different Concepticon concept sets)
 - **Lexemes:** 4,760
 - **Sources:** 1
 - **Synonymy:** 1.01
@@ -46,8 +46,10 @@ The concept *turkey* is defined in the concept list but does never appear as rep
 
 Name               | GitHub user  | Description                                 | Role
 ---                | ---          | ---                                         | ---
-Christoph Rzymski  | @chrzyki     | patron, concepts, digitization, languages   | Author
-Johann-Mattis List | @lingulist   | orthography profile                         | Other
+Fraser W. Tolmie   |              |                                             | Author
+George M. Dawson   |              |                                             | Author
+Christoph Rzymski  | @chrzyki     | patron, concepts, digitization, languages   | Editor
+Johann-Mattis List | @lingulist   | orthography profile                         | Editor
 
 
 
